@@ -31,7 +31,7 @@ Combined AI-generated suggestions with deterministic calculations, validation, a
 
 🎯 Areas of Interest
 
-Backend Engineering & System Design
+Backend/Frontend Engineering & System Design
 Database Architecture & Transactional Workflows
 Scalable REST API Development
 AI Integration & Reliable Business Automation
