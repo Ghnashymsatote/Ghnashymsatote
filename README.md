@@ -20,25 +20,17 @@
 
 ---
 
-### ⚡ Technologies & Tools
+### ⚡ Technologies I Work With
 
-**Frontend**
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express&theme=dark" alt="Frontend and backend technologies" />
 
-**Backend & Database**
+<br />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,mongodb&theme=dark" alt="Backend and database technologies" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker,aws,tailwind&theme=dark" alt="Database, cloud and tools" />
 
-**Cloud & Development**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman&theme=dark" alt="Cloud and developer tools" />
-</p>
+</div>
 
 ---
 
@@ -57,16 +49,20 @@ System Design · Backend Architecture · Performance Optimization · AI Integrat
 
 ---
 
-### 🌐 Connect
+### 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ghanshyam-satote-64b73827a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ghnashymsatote">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://ghanshyam-portfolio-rust.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ghanshyam-satote-64b73827a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/Ghnashymsatote">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://ghanshyam-portfolio-rust.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
