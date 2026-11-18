@@ -7,7 +7,18 @@ Working on backend engineering, system design, and reliable business workflows â
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake.svg" width="100%" />
+
+<hr />
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
+
+<hr />
   </picture>
 </p>ğŸŒ Connect with Me
 <p align="center">
