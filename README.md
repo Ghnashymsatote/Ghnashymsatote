@@ -1,27 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ghanshyam Satote</h1><p align="center"><strong>Full Stack Developer · Backend & Systems Engineering</strong></p><p align="center">Building reliable APIs, scalable web applications, and practical business systems.</p>🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,redis,docker,aws,tailwind&theme=dark&perline=6" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma, Redis, Docker, AWS, Tailwind CSS" />
-</p>🎯 Currently
-Working on backend engineering, system design, and reliable business workflows — from REST APIs and databases to cloud deployment.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake.svg" />
+<!-- HEADER: animated wave banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ghanshyam%20Satote&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Backend%20%26%20Systems%20Engineering&descSize=16&descAlignY=60" alt="Ghanshyam Satote banner" width="100%" /> </p> <!-- ANIMATED TYPING TEXT --> <p align="center"> <a href="https://github.com/Ghnashymsatote"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+reliable+APIs;Scalable+web+applications;Practical+business+%26+ERP+systems;Node.js+%C2%B7+React+%C2%B7+PostgreSQL" alt="Typing animation" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Based_in-Jalgaon,_India-2563EB?style=flat-square" alt="Location" /> <img src="https://img.shields.io/badge/Open_to-Opportunities-22c55e?style=flat-square" alt="Open to opportunities" /> </p>
+🚀 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,redis,docker,aws,tailwind&theme=dark&perline=6" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma, Redis, Docker, AWS, Tailwind CSS" /> </p>
+🎯 Currently
 
-<hr />
+Working on backend engineering, system design, and reliable business workflows, from REST APIs and databases to cloud deployment.
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</div>
-
-<hr />
-  </picture>
-</p>🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/Ghnashymsatote"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://ghanshyam-portfolio-rust.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+📈 Contributions
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake.svg" width="100%" /> </picture> </p>
+🌐 Connect with Me
+<p align="center"> <a href="https://github.com/Ghnashymsatote"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://ghanshyam-portfolio-rust.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ghanshyam-satote-64b73827a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> <!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%" /> </p>
