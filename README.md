@@ -1,44 +1,37 @@
-Hi, I'm Ghanshyam Satote 👋
 
-Full Stack Developer | Node.js · TypeScript · React · Next.js
+<div align="center">
 
-I'm a Full Stack Developer at SourceCatch Konnect Pvt. Ltd., building business applications, REST APIs, and transport & logistics ERP systems. My work spans backend architecture, relational database design, accounting workflows, role-based access control, and application deployment.
+# Hi 👋, I'm Ghanshyam Satote
 
-I'm also interested in AI-powered applications, especially systems that combine AI assistance with deterministic business logic, validation, and human approval.
+### Full Stack Developer | Backend Engineering | System Design
 
-🛠️ Technical Skills
+Building scalable web applications, REST APIs, and business systems.
 
-Languages: JavaScript, TypeScript, SQL
-Frontend: React.js, Next.js, Tailwind CSS, Redux Toolkit
-Backend: Node.js, Express.js, REST APIs, Zod, Authentication & RBAC
-Databases & ORM: PostgreSQL, MySQL, MongoDB, Prisma ORM, Redis
-Cloud & DevOps: AWS EC2, Amazon S3, Docker, CI/CD
-Tools & Integrations: Git, GitHub, Supabase, Stripe, Postman, JIRA
-AI Development: Gemini, AI SDKs, AI-assisted development with Codex and ChatGPT
+---
 
-🚀 Featured Work
+### 🚀 Tech Stack
 
-Transport & Logistics ERP
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,redis,docker,aws,tailwind&perline=12" />
 
-Working on interconnected ERP modules for order booking, logistics operations, billing, accounting, and financial workflows.
-Building backend APIs, relational data models, access controls, and integrations with accounting systems.
-BookMyService — Service Booking Platform
-Developing features across Admin, Customer, and Cleaner workflows.
-Working with Next.js, Node.js, PostgreSQL, Prisma, Redis, Stripe, and Docker.
-Loopnow CPA Copilot — AI-Powered Bookkeeping
-Built an AI-assisted bookkeeping application for receipt processing, expense classification, and GST/HST-related workflows.
-Combined AI-generated suggestions with deterministic calculations, validation, audit trails, and human approval.
+---
 
-🎯 Areas of Interest
+### 🎯 Currently
 
-Backend/Frontend Engineering & System Design
-Database Architecture & Transactional Workflows
-Scalable REST API Development
-AI Integration & Reliable Business Automation
-Cloud Deployment & CI/CD
+Focused on system design, backend architecture, performance optimization, and AI-powered applications.
 
-🌐 Connect With Me
+---
 
-- Portfolio: https://ghanshyam-portfolio-rust.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/ghanshyam-satote-64b73827a
-- GitHub: https://github.com/Ghnashymsatote
+### 📊 GitHub Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghnashymsatote&theme=github-compact)
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghnashymsatote)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ghanshyam-portfolio-rust.vercel.app/)
+
+</div>
+
