@@ -1,11 +1,72 @@
-<!-- HEADER: animated twinkling banner (kept simple so the URL never breaks) --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ghanshyam%20Satote&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40" alt="Ghanshyam Satote" width="100%" /> </p> <!-- ANIMATED TYPING TEXT --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer;Backend+%26+Systems+Engineering;Building+reliable+APIs;Scalable+web+applications;Practical+business+systems" alt="Typing animation" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Based_in-Jalgaon,_India-2563EB?style=flat-square" alt="Location" /> <img src="https://img.shields.io/badge/Open_to-Opportunities-22c55e?style=flat-square" alt="Open to opportunities" /> </p> <!-- ANIMATED TERMINAL (no file needed, same service as the typing text) --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=700&color=3FB950&background=0D1117&multiline=true&repeat=true&width=720&height=190&lines=%24+whoami;Full+Stack+Developer+%7C+Backend+%26+Systems;%24+cat+stack.json;Node.js+%7C+Express+%7C+PostgreSQL+%7C+Prisma+%7C+Redis;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;%24+npm+run+build+--reliable;%2B+APIs+ready+%7C+DB+synced+%7C+Deployed" alt="Terminal animation" /> </p>
-🚀 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,redis,docker,aws,tailwind&theme=dark&perline=6" alt="JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma, Redis, Docker, AWS, Tailwind CSS" /> </p>
-🎯 Currently
 
-Working on backend engineering, system design, and reliable business workflows, from REST APIs and databases to cloud deployment.
+<!-- HEADER -->
+<div align="center">
 
-📈 Contributions
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ghnashymsatote/Ghnashymsatote/output/github-snake.svg" width="100%" /> </picture> </p>
-🌐 Connect with Me
-<p align="center"> <a href="https://github.com/Ghnashymsatote"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://ghanshyam-portfolio-rust.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ghanshyam-satote-64b73827a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> <!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" width="100%" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123456,100:2563EB&height=175&section=header&text=Ghanshyam%20Satote&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Ghanshyam Satote" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer;Backend+%26+Systems+Engineering;Building+Scalable+Business+Applications" alt="Animated developer introduction" />
+
+<p>
+  Building reliable APIs, scalable applications, and business systems.
+</p>
+
+<a href="https://ghanshyam-portfolio-rust.vercel.app/">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Ghnashymsatote">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/ghanshyam-satote-64b73827a">LinkedIn</a>
+
+</div>
+
+---
+
+### ⚡ Technologies & Tools
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" />
+</p>
+
+**Backend & Database**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,mongodb&theme=dark" alt="Backend and database technologies" />
+</p>
+
+**Cloud & Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman&theme=dark" alt="Cloud and developer tools" />
+</p>
+
+---
+
+### 🚀 What I Build
+
+- **Business Applications** — ERP systems, operational workflows, and admin platforms.
+- **Backend Engineering** — REST APIs, authentication, RBAC, and database design.
+- **Full Stack Development** — React, Next.js, TypeScript, and Node.js applications.
+- **Cloud & Deployment** — Docker, AWS, and CI/CD pipelines.
+
+---
+
+### 🎯 Current Focus
+
+System Design · Backend Architecture · Performance Optimization · AI Integration
+
+---
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghanshyam-satote-64b73827a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Ghnashymsatote">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://ghanshyam-portfolio-rust.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
